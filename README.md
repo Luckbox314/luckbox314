@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 
 
 #### On what do I spend my programming time?
 1. I'm currently working as a intern at [Forcast][1].
