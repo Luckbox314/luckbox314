@@ -11,7 +11,7 @@
 1. Ex intern at [Forcast][1] during summer 2021.
 
 #### On what do I spend my non programing time?
-1. Part of the directive of [ACM-PUC Chapter][7]
+1. Chairman of [ACM-PUC Chapter][7]
 2. Comunity manager at [CPU][5].
 3. Learning Japanese.
 4. Drawing, [here][6] are some of my drawings.
