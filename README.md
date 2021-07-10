@@ -20,7 +20,7 @@
 ##### Lenguajes:
 * Python
 * Javascript
-* Typescript 💖
+* Typescript
 * C#
 * C
 * Ruby
