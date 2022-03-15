@@ -1,36 +1,37 @@
 ### Hello there 🤲
 
 #### On what do I spend my programming time? 
-2. I'm working in a game in reactjs that has the objetive of replacing a test in a university course.
-3. I'm working on [Rheviu][2], a webapp designed to simplify the process of accessing opinions about UC courses.
-4. I'm also participating in the creation of [CPU][3]'s web page.
-5. I'm the one and only sustainer of [Secret Santa API][8].
-6. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
+1. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
+2. Working at [Red Pine][10] as a full stack developer.
+3. I'm the one and only sustainer of [Secret Santa API][8].
 
 #### Notable experience
-1. Ex intern at [Forcast][1] during summer 2021.
+1. Intern at [Forcast][1] during summer 2021.
+2. Intern at [Smarto Club][9] during summer 2022.
+3. Chairman at [ACM-PUC Chapter][7] during 2021.
 
 #### On what do I spend my non programing time?
-1. Chairman of [ACM-PUC Chapter][7]
-2. Comunity manager at [CPU][5].
-3. Learning Japanese.
-4. Drawing, [here][6] are some of my drawings.
+1. Member of [ACM-PUC Chapter][7]
+2. Learning Japanese.
+3. Drawing, [here][6] are some of my drawings.
+4. Random game designs.
+5. Random art proyects.
 
 #### Stuff I know and maybe you could ask me about:
 ##### Lenguajes:
 * Python
 * Javascript
+* HTML
+* CSS
 * Typescript
 * C#
-* C
-* Ruby
 
 ##### Frameworks:
 * Reactjs
 * Angular
 * Unity
 * Koa
-* Ruby on rails
+* Express
 
 
 [1]: https://www.forcast.cl/
@@ -41,6 +42,8 @@
 [6]: https://www.instagram.com/luckbox.studio/?hl=es-la
 [7]: https://www.instagram.com/capituloacmpuc/
 [8]: https://github.com/Luckbox314/SecretSantaAPI
+[9]: https://smarto.club/
+[10]: http://www.redpine.solutions/
 
 <!--
 **Luckbox314/Luckbox314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
