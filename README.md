@@ -2,13 +2,13 @@
 
 #### On what do I spend my programming time? 
 1. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
-2. Working at [Red Pine][10] as a full stack developer.
 3. I'm the one and only sustainer of [Secret Santa API][8].
 
 #### Notable experience
 1. Intern at [Forcast][1] during summer 2021.
 2. Intern at [Smarto Club][9] during summer 2022.
 3. Chairman at [ACM-PUC Chapter][7] during 2021.
+4. Worked at [Red Pine][10] as a full stack developer during 2022.
 
 #### On what do I spend my non programing time?
 1. Member of [ACM-PUC Chapter][7]
