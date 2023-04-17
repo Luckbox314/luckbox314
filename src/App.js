@@ -9,7 +9,7 @@ function App() {
       </div>
       <div className='content'>
         <div className='card'>
-          <h2>Protypes</h2>
+          <h2>Prototypes</h2>
           <p>ideas you can try out.</p>
         </div>
         <div className='card'>
