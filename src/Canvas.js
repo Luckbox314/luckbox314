@@ -16,15 +16,26 @@ function Canvas() {
         // z_index
         app.renderer.view.style.zIndex = -1;
         app.resizeTo = document.getElementsByClassName("App")[0];
-        const filter = new AsciiFilter(15);
-        app.stage.filters = [filter];
+        const blurFilter = new PIXI.BlurFilter(20);
+        const Asciifilter = new AsciiFilter(15);
+        app.stage.filters = [
+            blurFilter,
+            Asciifilter,
+        ];
 
         let circles = [];
 
-        for (let i = 0; i < 200; i++) {
+        const density = 100; // circles per 1000 pixels
+
+        // get total ammount of cirlces based on the density and the size of the screen
+        const totalCircles = density * (app.screen.width * app.screen.height) / 1000000;
+
+
+
+        for (let i = 0; i < totalCircles; i++) {
             const circle = new PIXI.Graphics();
             circle.beginFill(0x769AB1);
-            circle.drawCircle(0, 0, 5 + Math.random() * 10);
+            circle.drawCircle(0, 0, 20 + Math.random() * 5);
             circle.endFill();
         
             // finally lets set the circle to be at a random position..
@@ -36,10 +47,10 @@ function Canvas() {
             circle.direction = Math.random() * Math.PI * 2;
         
             // this number will be used to modify the direction of the circle over time
-            circle.turningSpeed = 0;
+            circle.turningSpeed = (1 - Math.random() * 2) * 2;
         
             // create a random speed for the circle between 2 - 4
-            circle.speed = 0.5 + Math.random() * 0.5;
+            circle.speed = 1+ 0.5 + Math.random() * 0.5;
         
             // finally we push the circle into the cirlces array so it it can be easily accessed later
             circles.push(circle);
@@ -55,13 +66,13 @@ function Canvas() {
             app.screen.width + circleBoundsPadding * 2,
             app.screen.height + circleBoundsPadding * 2);
 
-        app.ticker.add(() => {
+        app.ticker.add((delta) => {
             // iterate through the dudes and update their position
             for (let i = 0; i < circles.length; i++) {
                 const circle = circles[i];
                 circle.direction += circle.turningSpeed * 0.01;
-                circle.x += Math.sin(circle.direction) * circle.speed;
-                circle.y += Math.cos(circle.direction) * circle.speed;
+                circle.x += Math.sin(circle.direction) * circle.speed * delta;
+                circle.y += Math.cos(circle.direction) * circle.speed * delta;
                 circle.rotation = -circle.direction - Math.PI / 2;
 
                 // wrap the circles by testing their bounds...
