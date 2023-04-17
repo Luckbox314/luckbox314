@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luckbox314/static/css/main.199a4ab6.css",
+    "main.js": "/luckbox314/static/js/main.1fcd0c40.js",
+    "static/js/787.e887a654.chunk.js": "/luckbox314/static/js/787.e887a654.chunk.js",
+    "index.html": "/luckbox314/index.html",
+    "main.199a4ab6.css.map": "/luckbox314/static/css/main.199a4ab6.css.map",
+    "main.1fcd0c40.js.map": "/luckbox314/static/js/main.1fcd0c40.js.map",
+    "787.e887a654.chunk.js.map": "/luckbox314/static/js/787.e887a654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199a4ab6.css",
+    "static/js/main.1fcd0c40.js"
+  ]
+}
