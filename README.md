@@ -1,61 +1,70 @@
-### Hello there 🤲
+# Getting Started with Create React App
 
-#### On what do I spend my programming time? 
-1. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
-3. I'm the one and only sustainer of [Secret Santa API][8].
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Notable experience
-1. Intern at [Forcast][1] during summer 2021.
-2. Intern at [Smarto Club][9] during summer 2022.
-3. Chairman at [ACM-PUC Chapter][7] during 2021.
-4. Worked at [Red Pine][10] as a full stack developer during 2022.
+## Available Scripts
 
-#### On what do I spend my non programing time?
-1. Member of [ACM-PUC Chapter][7]
-2. Learning Japanese.
-3. Drawing, [here][6] are some of my drawings.
-4. Random game designs.
-5. Random art proyects.
+In the project directory, you can run:
 
-#### Stuff I know and maybe you could ask me about:
-##### Lenguajes:
-* Python
-* Javascript
-* HTML
-* CSS
-* Typescript
-* C#
+### `npm start`
 
-##### Frameworks:
-* Reactjs
-* Angular
-* Unity
-* Koa
-* Express
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-[1]: https://www.forcast.cl/
-[2]: https://rheviu.github.io/hello/
-[3]: https://cpu.ing.puc.cl/
-[4]: https://cpu.ing.puc.cl/
-[5]: https://www.instagram.com/cpu_uc/?hl=es-la
-[6]: https://www.instagram.com/luckbox.studio/?hl=es-la
-[7]: https://www.instagram.com/capituloacmpuc/
-[8]: https://github.com/Luckbox314/SecretSantaAPI
-[9]: https://smarto.club/
-[10]: http://www.redpine.solutions/
+### `npm test`
 
-<!--
-**Luckbox314/Luckbox314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Here are some ideas to get you started:
+### `npm run build`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
