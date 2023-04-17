@@ -6,7 +6,7 @@
 }
 
 .luckbox {
-  font-weight: 100;
+  font-weight: 600;
   font-size: 3.5rem;
   color: #F6CC6E;
 }
@@ -54,7 +54,7 @@ footer {
 @media (min-width:600px) {
 
   .luckbox {
-    font-weight: 100;
+    font-weight: 600;
     font-size: 5rem;
     color: #F6CC6E;
   }
@@ -86,7 +86,7 @@ footer {
 @media (min-width:2000px) {
 
   .luckbox {
-    font-weight: 100;
+    font-weight: 600;
     font-size: 7rem;
     color: #F6CC6E;
   }
