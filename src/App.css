@@ -13,7 +13,7 @@
 
 .content {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 400px;
   padding: 0 20px;
   display: flex;
   flex-wrap: wrap;
@@ -21,13 +21,14 @@
 }
 
 .card {
+  font-size: smaller;
   box-sizing: border-box;
-  margin: 10px;
+  margin: 0 10px 40px;
   padding: 20px;
   background-color: #2B5177;
-  border-radius: 5px;
-  width: 380px;
-  height: 200px;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
 
 }
 
@@ -56,6 +57,60 @@ footer {
     font-weight: 100;
     font-size: 5rem;
     color: #F6CC6E;
+  }
+
+  .content {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    font-size: normal;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    background-color: #2B5177;
+    border-radius: 5px;
+    width: 360px;
+    height: 200px;
+    margin: 0 20px 40px;
+  
+  }
+
+}
+
+@media (min-width:2000px) {
+
+  .luckbox {
+    font-weight: 100;
+    font-size: 7rem;
+    color: #F6CC6E;
+  }
+
+  .content {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    font-size: larger;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    background-color: #2B5177;
+    border-radius: 5px;
+    width: 460px;
+    height: 250px;
+    margin: 0 20px 40px;
+  
   }
 
 }
