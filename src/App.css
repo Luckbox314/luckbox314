@@ -32,6 +32,20 @@
 
 }
 
+.clickCard {
+  text-decoration: none;
+  color: white;
+}
+
+.card:hover {
+  background-color: #F6CC6E;
+  color: #020305;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
 body {
   margin: 0;
   padding: 0;
