@@ -1,4 +1,6 @@
 import './App.css';
+import ln from './logos/In-72.png';
+import gh from './logos/github.svg';
 
 function App() {
   return (
@@ -27,12 +29,13 @@ function App() {
           </div>
         </a>
         <div className='card invisible'>
-          Filler
+
         </div>
       </div>
       </article>
       <footer>
-        Social media
+        <a target='_blank' href="https://www.linkedin.com/in/luckbox314/"><img className="socialMediaLogo" src={ln} alt='LinkedIn' height={50}/></a>
+        <a target='_blank' href="https://github.com/Luckbox314"><img className="socialMediaLogo" src={gh} alt='GitHub' height={50}/></a>
       </footer>
     </div>
   );

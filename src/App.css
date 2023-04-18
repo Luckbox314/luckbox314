@@ -46,6 +46,10 @@
   visibility: hidden;
 }
 
+.socialMediaLogo {
+  margin: 0 10px;
+}
+
 body {
   margin: 0;
   padding: 0;
