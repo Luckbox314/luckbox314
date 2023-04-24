@@ -22,7 +22,7 @@ function App() {
             <p>Same as general art ideas but for games.</p>
           </div>
         </a>
-        <a className="clickCard" target='_blank' href="https://www.overleaf.com/download/project/62db2c91127a7dc14ea52850/build/18794d1cf92-9675fa5bae851046/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-f-cnsm&enable_pdf_caching=true">
+        <a className="clickCard" target='_blank' href="https://drive.google.com/file/d/1YuWHkKOqSlEf6hAt_0pjEL4Fay5tFOrf/view?usp=sharing">
           <div className='card'>
             <h2>Curriculum</h2>
             <p>List of my work experience</p>
