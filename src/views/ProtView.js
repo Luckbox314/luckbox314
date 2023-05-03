@@ -1,4 +1,4 @@
-import './ProtView.css';
+import './ProtView.scss';
 
 
 function ProtView({changePage}) {

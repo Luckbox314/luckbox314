@@ -29,12 +29,17 @@
 }
 
 
+
 .iframe-cover:hover {
     opacity: 0.5;
 }
 
 .card:hover {
     color: #020305;
+    iframe {
+        filter: blur(2px);
+        border-width: 0px;
+    }
 }
 
 .back-button {
