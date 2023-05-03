@@ -29,8 +29,10 @@
   border-radius: 10px;
   width: 250px;
   height: 150px;
-
+  position: relative;
+  z-index: 1;
 }
+
 
 .clickCard {
   text-decoration: none;
@@ -39,6 +41,7 @@
 
 .card:hover {
   background-color: #F6CC6E;
+  cursor: pointer;
   color: #020305;
 }
 
@@ -47,7 +50,7 @@
 }
 
 .socialMediaLogo {
-  margin: 0 10px;
+  margin: 0 10px 20px;
 }
 
 body {
