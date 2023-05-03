@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/luckbox314/static/css/main.1c4b291e.css",
-    "main.js": "/luckbox314/static/js/main.644195f3.js",
+    "main.css": "/luckbox314/static/css/main.e4d8c525.css",
+    "main.js": "/luckbox314/static/js/main.eab2e30d.js",
     "static/js/787.e887a654.chunk.js": "/luckbox314/static/js/787.e887a654.chunk.js",
     "static/media/github.svg": "/luckbox314/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/luckbox314/index.html",
-    "main.1c4b291e.css.map": "/luckbox314/static/css/main.1c4b291e.css.map",
-    "main.644195f3.js.map": "/luckbox314/static/js/main.644195f3.js.map",
+    "main.e4d8c525.css.map": "/luckbox314/static/css/main.e4d8c525.css.map",
+    "main.eab2e30d.js.map": "/luckbox314/static/js/main.eab2e30d.js.map",
     "787.e887a654.chunk.js.map": "/luckbox314/static/js/787.e887a654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c4b291e.css",
-    "static/js/main.644195f3.js"
+    "static/css/main.e4d8c525.css",
+    "static/js/main.eab2e30d.js"
   ]
 }
