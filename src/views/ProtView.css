@@ -1,0 +1,72 @@
+
+.iframe-cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    z-index: 1;
+    background-color: #F6CC6E;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.card h2 {
+    position: relative;
+    z-index: 2;
+}
+  
+.card iframe {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    z-index: -1; /* Make sure the iframe is behind the content */
+}
+
+
+.iframe-cover:hover {
+    opacity: 0.5;
+}
+
+.card:hover {
+    color: #020305;
+}
+
+.back-button {
+    font-size: 18px;
+    font-weight: bold;
+    color: #020305;
+    background-color: #F6CC6E;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+  
+.back-button:hover {
+    background-color: #769AB1;
+    color: #fff;
+}
+
+.title-box .back-button {
+    position: relative;
+    margin: 0 20%  
+}
+
+@media (min-width:570px) {
+
+    .title-box .back-button {
+        position: absolute;
+        margin-left: -390px;
+        margin-top: 10px;
+    }
+  
+  }
+
+

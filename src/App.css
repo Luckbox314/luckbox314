@@ -5,7 +5,7 @@
   min-height: 100vh;
 }
 
-.luckbox {
+.big-title {
   font-weight: 600;
   font-size: 3.5rem;
   color: #F6CC6E;
@@ -34,7 +34,7 @@
 }
 
 
-.clickCard {
+.click-card {
   text-decoration: none;
   color: white;
 }
@@ -95,7 +95,7 @@ footer {
     margin: 10px;
     padding: 20px;
     background-color: #2B5177;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 360px;
     height: 200px;
     margin: 0 20px 40px;
@@ -127,7 +127,7 @@ footer {
     margin: 10px;
     padding: 20px;
     background-color: #2B5177;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 460px;
     height: 250px;
     margin: 0 20px 40px;
