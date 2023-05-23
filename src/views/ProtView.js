@@ -31,6 +31,16 @@ function ProtView({changePage}) {
                         </iframe>
                     </div>
                 </a>
+                <a className='click-card' target='_blank' href="https://luckbox314.github.io/GameOfLife/">
+                    <div className='card'>
+                        <h2>Game of Life (WebGPU)</h2>
+                        <div className="iframe-cover"/>
+                        <iframe 
+                            title="Game of Life (WebGPU)"
+                            src="https://luckbox314.github.io/GameOfLife/">
+                        </iframe>
+                    </div>
+                </a>
 
                 
             </div>
