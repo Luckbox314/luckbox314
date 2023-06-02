@@ -48,10 +48,11 @@ function ProtView({changePage}) {
                     </div>
                 </a>
                 <a className='click-card' target='_blank' href="https://luckbox314.github.io/orbit_visualizer/">
-                    <div className='card'>
+                    <div className='card' >
                         <h2>Orbit Visualizer</h2>
-                        <div className="iframe-cover"/>
+                        <div className="iframe-cover" />
                         <iframe 
+                            scrolling='no'
                             title="Orbit Visualizer"
                             src="https://luckbox314.github.io/orbit_visualizer/">
                         </iframe>
