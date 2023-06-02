@@ -1,4 +1,5 @@
 import './ProtView.scss';
+import flowers from '../images/screen_cap.png';
 
 
 function ProtView({changePage}) {
@@ -45,6 +46,7 @@ function ProtView({changePage}) {
                     <div className='card'>
                         <h2>Flowers</h2>
                         <div className="iframe-cover"/>
+                        <img src={flowers} style={{width: "100%", height: "100%"}}/>
                     </div>
                 </a>
                 <a className='click-card' target='_blank' href="https://luckbox314.github.io/orbit_visualizer/">
