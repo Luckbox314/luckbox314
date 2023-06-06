@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/luckbox314/static/css/main.23abc3ce.css",
-    "main.js": "/luckbox314/static/js/main.c5d33a63.js",
+    "main.js": "/luckbox314/static/js/main.47bef17d.js",
     "static/js/787.e887a654.chunk.js": "/luckbox314/static/js/787.e887a654.chunk.js",
     "static/media/screen_cap.png": "/luckbox314/static/media/screen_cap.0995f4036294bdea7da2.png",
     "static/media/github.svg": "/luckbox314/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/luckbox314/index.html",
     "main.23abc3ce.css.map": "/luckbox314/static/css/main.23abc3ce.css.map",
-    "main.c5d33a63.js.map": "/luckbox314/static/js/main.c5d33a63.js.map",
+    "main.47bef17d.js.map": "/luckbox314/static/js/main.47bef17d.js.map",
     "787.e887a654.chunk.js.map": "/luckbox314/static/js/787.e887a654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23abc3ce.css",
-    "static/js/main.c5d33a63.js"
+    "static/js/main.47bef17d.js"
   ]
 }
