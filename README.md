@@ -2,7 +2,6 @@
 
 #### On what do I spend my programming time? 
 1. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
-3. I'm the one and only sustainer of [Secret Santa API][8].
 
 #### Notable experience
 1. Intern at [Forcast][1] during summer 2021.
@@ -11,7 +10,6 @@
 4. Worked at [Red Pine][10] as a full stack developer during 2022.
 
 #### On what do I spend my non programing time?
-1. Member of [ACM-PUC Chapter][7]
 2. Learning Japanese.
 3. Drawing, [here][6] are some of my drawings.
 4. Random game designs.
@@ -25,6 +23,7 @@
 * CSS
 * Typescript
 * C#
+* Unity
 
 ##### Frameworks:
 * Reactjs
@@ -44,18 +43,3 @@
 [8]: https://github.com/Luckbox314/SecretSantaAPI
 [9]: https://smarto.club/
 [10]: http://www.redpine.solutions/
-
-<!--
-**Luckbox314/Luckbox314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
