@@ -1,7 +1,6 @@
 ### Hello there 🤲
-
-#### On what do I spend my programming time? 
-1. I'm Studing software Engineering at [Pontifical Catholic University of Chile][4].
+I'm Studied Software Engineering at [Pontifical Catholic University of Chile][4].
+I currently work at [Modyo][11] as a Software Engineer.
 
 #### Notable experience
 1. Intern at [Forcast][1] during summer 2021.
@@ -43,3 +42,4 @@
 [8]: https://github.com/Luckbox314/SecretSantaAPI
 [9]: https://smarto.club/
 [10]: http://www.redpine.solutions/
+[11]: https://es.modyo.com
