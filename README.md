@@ -1,6 +1,5 @@
 ### Hello there 🤲
 I'm Studied Software Engineering at [Pontifical Catholic University of Chile][4].
-I currently work at [Modyo][11] as a Software Engineer.
 
 #### Notable experience
 1. Intern at [Forcast][1] during summer 2021.
