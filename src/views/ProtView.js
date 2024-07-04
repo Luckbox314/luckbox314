@@ -42,7 +42,7 @@ function ProtView({changePage}) {
                         </iframe>
                     </div>
                 </a>
-                <a className='click-card' target='_blank' href="https://luckbox314.github.io/flowers/">
+                <a className='click-card' target='_blank' href="https://luckbox314.github.io/flowers-offline/">
                     <div className='card'>
                         <h2>Flowers</h2>
                         <div className="iframe-cover"/>
