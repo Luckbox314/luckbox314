@@ -3,7 +3,7 @@
 
 ## Hello there 🤲
 I Studied Software Engineering at [Pontifical Catholic University of Chile][4].
-I Also was an exchange student at [Tokyo University][14] for one semester.
+I also was an exchange student at [Tokyo University][14] for one semester.
 
 ## Notable experience
 1. Intern at [Forcast][1] during summer 2021.
